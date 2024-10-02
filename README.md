@@ -28,7 +28,7 @@ Responsive Design:
 Ensures compatibility across various devices, providing an optimal user experience on desktops, tablets, and smartphones.
 Installation Instructions:
 
-Clone the repository: git clone https://github.com/yourusername/vehicle-rental-system.git
+Clone the repository: (https://github.com/AnshuTripa/WebProject_Vehicle/edit/main/README.md)
 Import the provided SQL file to your MySQL database.
 Configure database connection settings in config.php.
 Run the application on a local server (e.g., XAMPP, WAMP).
